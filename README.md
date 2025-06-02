@@ -18,4 +18,4 @@ This C# console application generates an optimized classroom seating plan based 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/classroom-seating-planner.git
+   git clone https://github.com/dimataa1/classroom-seating-planner.git
